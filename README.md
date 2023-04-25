@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Addis Ababa, Ethiopia`.
-- I am a software developer with a background in object-oriented programming languages mainly Python. I am experienced in working with a variety of frameworks and libraries to create efficient, scalable, and user-friendly applications. I am skilled in problem-solving and project-management. I always want to learn new technologies and techniques and dedicated to improve my skills with the latest developments in the field.
+- I am a software developer with a background in object-oriented programming languages mainly Python. I am experienced in working with a variety of frameworks and libraries to create efficient, scalable and user-friendly applications. I am skilled in problem-solving and project-management. I always want to learn new technologies and techniques and I am dedicated to improving my skills with the latest developments in the field.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kidusgr/)
 
@@ -46,6 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KidusGR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KidusGR&theme=hacker&background=000000)](https://git.io/streak-stats)
 
