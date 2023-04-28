@@ -17,7 +17,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from `Addis Ababa, Ethiopia`.
 - I am a software developer with a background in object-oriented programming languages mainly Python. I am experienced in working with a variety of frameworks and libraries to create efficient, scalable and user-friendly applications. I am skilled in problem-solving and project-management. I always want to learn new technologies and techniques and I am dedicated to improving my skills with the latest developments in the field.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kidusgr/)   [![Twitter Badge](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fkidusgr)](https://twitter.com/kidusgr/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kidusgr/)   [![Telegram Badge](https://img.shields.io/badge/telegram-chat-blue?style=for-the-badge&logo=telegram)](https://t.me/kidus_gr/)
 
 ---
 
