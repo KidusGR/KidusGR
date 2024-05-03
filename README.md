@@ -34,14 +34,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" **alt="Nginx" width="40" height="40"/>
 </div>
 
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidusgr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)\
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KidusGR&theme=hacker&background=000000)](https://git.io/streak-stats)
-
 ----
 ## :writing_hand: AUTHOR:
 [KIDUS GIZAW](https://github.com/Kidusgr)
